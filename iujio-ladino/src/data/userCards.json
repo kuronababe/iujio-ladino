@@ -1,0 +1,3118 @@
+[
+  {
+    "id": "mxhNSSmuT4k3vCZa",
+    "name": "Escudeiro de Bronze",
+    "img": "icons/equipment/shield/kite-bronze-boss-brown.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro",
+    "ataque": 2,
+    "defesa": 5,
+    "efeito": "Se a Defesa desta carta for maior que o Ataque da carta inimiga, receba +1 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "y7uw5hpFF8ggXD9P",
+    "name": "Arqueira da Bastilha",
+    "img": "icons/environment/people/archer.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro / Arqueiro",
+    "ataque": 4,
+    "defesa": 4,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque da carta inimiga, receba +1 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "L3kKcgQQuz1nla8N",
+    "name": "Lança da Justiça",
+    "img": "icons/weapons/polearms/spear-flared-gold.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Cavaleiro / Sagrado",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque da carta inimiga, receba +2 no resultado da rodada.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "usmTTdrhpCVBFpuW",
+    "name": "Sentinela da Muralha",
+    "img": "images/icons/avatar_fantasy_icon_19.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro",
+    "ataque": 3,
+    "defesa": 7,
+    "efeito": "Se a Defesa desta carta for maior que o Ataque da carta inimiga, reduza em 1 qualquer bônus que ela receberia.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "6HDVbN2ZzmIwdNiP",
+    "name": "Juramento da Guarda",
+    "img": "icons/magic/defensive/shield-barrier-glowing-blue.webp",
+    "tipo": "magia",
+    "arquetipo": "Cavaleiro / Sagrado",
+    "ataque": 4,
+    "defesa": 4,
+    "efeito": "Se você perder esta rodada por 2 ou menos, a rodada empata.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "BcMAgq4mZub7Fr1H",
+    "name": "Cavaleira Errante",
+    "img": "icons/environment/people/cavalry-heavy.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro",
+    "ataque": 5,
+    "defesa": 5,
+    "efeito": "Se você perder esta rodada, pode revelar outra carta. Você deve usar a nova carta.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "6k1izRaZVk3OeYl8",
+    "name": "Muralha Inquebrável",
+    "img": "images/icons/skills/spearman_skill_icon_08.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Cavaleiro",
+    "ataque": 0,
+    "defesa": 6,
+    "efeito": "Se o Ataque da carta inimiga for maior que 3, você recebe +2 no resultado da rodada.",
+    "engaste": [
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "h1hL0XqD3KAeVXLG",
+    "name": "Paladino da Aurora",
+    "img": "icons/magic/light/explosion-star-glow-blue.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro / Sagrado",
+    "ataque": 6,
+    "defesa": 6,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque da carta inimiga, receba +2 no resultado da rodada.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "PPT57pC9uhgpGjts",
+    "name": "Estandarte do Reino Caído",
+    "img": "icons/sundries/flags/banner-standard-brown.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Cavaleiro / Morto-Vivo",
+    "ataque": 1,
+    "defesa": 5,
+    "efeito": "Se a Defesa dessa carta for maior que o Ataque inimigo, receba +3 no resultado da rodada. Se essa foi a segunda carta puxada nessa rodada, a defesa dela é dobrada.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "POkAjqFWOSrJy3Xo",
+    "name": "Guardião do Trono",
+    "img": "icons/environment/people/infantry-armored.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro",
+    "ataque": 5,
+    "defesa": 8,
+    "efeito": "Se a Defesa desta carta for maior que o Ataque inimigo, reduza o Ataque da carta inimiga em 2.",
+    "engaste": [
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "IwwSf4FUqKROb5tt",
+    "name": "Espada da Última Vigília",
+    "img": "icons/weapons/swords/sword-runed-glowing.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Cavaleiro / Sagrado",
+    "ataque": 8,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for igual ou maior que o Ataque inimigo, receba +3 no resultado da rodada.",
+    "engaste": [
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "0fFPm1w51RJGpXu5",
+    "name": "Wolfgang, o Matador de Dragões",
+    "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro / Lendário",
+    "ataque": 8,
+    "defesa": 6,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +4 no resultado da rodada. Se sua Defesa for maior que o Ataque inimigo, se você fosse perder essa rodada, você empata.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "AUPZTfI6zyvguOD5",
+    "name": "Aprendiz Determinado",
+    "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monge",
+    "ataque": 4,
+    "defesa": 3,
+    "efeito": "Se a Defesa desta carta for maior que o Ataque inimigo, receba +1 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "BgPyqI5jFleXCb0e",
+    "name": "Soco do Vento",
+    "img": "images/class-icons/monge/ability_monk_Jab.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge / Elemental",
+    "ataque": 6,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +1 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "Ku0qZklxp8YxD2k1",
+    "name": "Monge Viajante",
+    "img": "images/icons/Ability_Shaman_AncestralGuidance.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monge",
+    "ataque": 5,
+    "defesa": 4,
+    "efeito": "Se o Ataque desta carta for menor que o Ataque inimigo, revele outra carta e escolha qual usar.",
+    "engaste": [
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "hEYvRS5Ucauwk59O",
+    "name": "Defesa de Bambu",
+    "img": "icons/commodities/wood/bamboo-brown.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge",
+    "ataque": 4,
+    "defesa": 2,
+    "efeito": "Se a Defesa dessa carta for menor que o Ataque inimigo, reduza em 2 o resultado final do oponente.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "9JUi5vASOIldXQgT",
+    "name": "Chute Giratório",
+    "img": "images/class-icons/monge/ABILITY_MONK_HURRICANESTRIKE.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, revele outra carta e aplique apenas o efeito dela.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "TowFDJXDQ7GbyVJb",
+    "name": "Mestre do Ki",
+    "img": "images/class-icons/monge/Ability_TitanKeeper_TestofConfidence.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monge",
+    "ataque": 6,
+    "defesa": 5,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +3 no resultado da rodada.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "3mdH1yx8EVQfCRus",
+    "name": "Palma do Vácuo",
+    "img": "images/class-icons/monge/INV_Ability_ShadopanMonk_FlurryStrikes.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge",
+    "ataque": 8,
+    "defesa": 0,
+    "efeito": "Ignore a Defesa da criatura inimiga nesta rodada.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "GPB7B7krkcWj8v5x",
+    "name": "Adepto do Monastério da Neve",
+    "img": "icons/magic/water/snowflake-ice-snow-white.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monge / Elemental",
+    "ataque": 7,
+    "defesa": 4,
+    "efeito": "Se o Ataque desta carta for menor que o Ataque inimigo, reduza em 2 o resultado final do oponente. Se a Defesa desta carta for maior que a Defesa inimiga, adicione 2 no seu resultado final.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "5bdkLfsNSbrtWFSy",
+    "name": "Onda Interna",
+    "img": "icons/magic/air/wind-vortex-swirl-blue.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge",
+    "ataque": 6,
+    "defesa": 0,
+    "efeito": "Se o Ataque dessa carta for maior que o Ataque inimigo, receba +3 no resultado da rodada e a carta inimiga recebe -3 no Ataque.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "zi3VSkUkhNow3nbR",
+    "name": "Máscara de Mithril",
+    "img": "icons/equipment/head/helm-basinet-slotted-steel.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monge / Lendário",
+    "ataque": 8,
+    "defesa": 7,
+    "efeito": "Se o Ataque desta carta for igual ou maior que o Ataque inimigo, receba +4 no resultado da rodada. Se sua Defesa for maior ou igual que o Ataque inimigo, revele outra carta e aplique também o efeito dela.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "nCxlIpgXcikMcRr8",
+    "name": "Punho do Dragão",
+    "img": "images/class-icons/monge/ability_monk_dragonkick.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge / Dragão",
+    "ataque": 9,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +2 no resultado da rodada.",
+    "engaste": [
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "27lu7JXtijoPsFZs",
+    "name": "Ki Ascendente",
+    "img": "images/class-icons/monge/INV_Ability_ConduitoftheCelestialsMonk_CelestialConduit.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "Se esta for sua segunda carta revelada nesta rodada, escolha qualquer resultado da sua tabela.",
+    "engaste": [
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "QWHKfudZUGtw3cOD",
+    "name": "Batedor de Bolsos",
+    "img": "icons/containers/bags/sack-twisted-skull-purple.webp",
+    "tipo": "criatura",
+    "arquetipo": "Ladino",
+    "ataque": 4,
+    "defesa": 2,
+    "efeito": "Se esta não for a primeira carta que você revelou nesta rodada, receba +2 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "exrQHnpyKsNuGeGw",
+    "name": "Adaga Envenenada",
+    "img": "images/class-icons/ladino/Ability_Rogue_PoisonedKnife.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Ladino / Veneno",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Se esta não for sua primeira carta revelada nesta rodada, reduza em 2 o resultado final do oponente.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "BoLRr90inmeJ5Xkn",
+    "name": "Vigia dos Telhados",
+    "img": "icons/skills/movement/figure-running-gray.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Ladino",
+    "ataque": 5,
+    "defesa": 2,
+    "efeito": "Se a Defesa desta carta for igual ou menor que o Ataque inimigo, revele outra carta e escolha qual usar.",
+    "engaste": [
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "zfElo2rfpA0PMRJ4",
+    "name": "Cortina de Fumaças",
+    "img": "images/icons/ability_rogue_smoke.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Ladino",
+    "ataque": 1,
+    "defesa": 3,
+    "efeito": "Se você foi o primeiro a revelar uma carta nessa rodada, revele outra carta e deve usá-la no lugar dessa. Se revelar essa carta por segundo na rodada, revele outra carta e você escolha qual carta usar.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "2FBUuQKdz26PQLQb",
+    "name": "Espadachim de Viela",
+    "img": "images/class-icons/ladino/Ability_Rogue_UnfairAdvantage.webp",
+    "tipo": "criatura",
+    "arquetipo": "Ladino / Cavaleiro",
+    "ataque": 6,
+    "defesa": 4,
+    "efeito": "Se essa não for a primeira carta puxada nessa rodada, receba +3 no resultado da rodada.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "mZKAes8h97cTF4Lv",
+    "name": "Passos Silenciosos",
+    "img": "images/class-icons/ladino/ABILITY_HUNTER_POSTHASTE.webp",
+    "tipo": "magia",
+    "arquetipo": "Ladino / Patrulheiro",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for menor ou igual o Ataque inimigo, revele outra carta e escolha qual usar.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "WCYaZupSnFJmBJXG",
+    "name": "Assassino de Aluguel",
+    "img": "icons/weapons/daggers/dagger-curved-black.webp",
+    "tipo": "criatura",
+    "arquetipo": "Ladino",
+    "ataque": 7,
+    "defesa": 2,
+    "efeito": "Se esta for a segunda carta que você revelou nesta rodada, receba +3 no resultado da rodada. Se esta for a terceira carta ou uma carta posterior, receba +6 no resultado da rodada.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "6wtOxmZSM3xCOTAS",
+    "name": "Golpe nas Costas",
+    "img": "images/class-icons/ladino/Ability_Rogue_SurpriseAttack.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Ladino",
+    "ataque": 8,
+    "defesa": 0,
+    "efeito": "Se esta não for sua primeira carta revelada nesta rodada ou Ataque desta carta for maior que o Ataque inimigo, receba +4 no resultado da rodada.",
+    "engaste": [
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "62F03uR3I1T7oXJW",
+    "name": "Informante de Mil Faces",
+    "img": "icons/equipment/head/mask-carved-wood-brown.webp",
+    "tipo": "criatura",
+    "arquetipo": "Ladino / Aberrante",
+    "ataque": 5,
+    "defesa": 4,
+    "efeito": "Copie o efeito da carta inimiga. Se esta não for sua primeira carta revelada nesta rodada, você também pode reduzir o Ataque inimigo em 3.",
+    "engaste": [
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "FDhTWlqIUAiR1qIh",
+    "name": "Emboscada Perfeita",
+    "img": "icons/skills/melee/strike-dagger-blood-red.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Ladino",
+    "ataque": 9,
+    "defesa": 0,
+    "efeito": "Se esta não for sua primeira carta revelada nesta rodada, reduza o Ataque e a Defesa da carta inimiga em 3.",
+    "engaste": [
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "kvZgLHqkoj0M1Ky3",
+    "name": "Fuga pelo Telhado",
+    "img": "icons/environment/settlement/city-night.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Ladino",
+    "ataque": 0,
+    "defesa": 7,
+    "efeito": "Revele outras duas cartas, escolha qual deseja usar.",
+    "engaste": [
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "sKc0Pl28n4DIXlab",
+    "name": "Fenrir, o Pele de Lobo",
+    "img": "icons/creatures/mammals/wolf-howl-moon-gray.webp",
+    "tipo": "criatura",
+    "arquetipo": "Ladino / Lendário",
+    "ataque": 7,
+    "defesa": 7,
+    "efeito": "Copie o efeito da carta inimiga. Se esta não for sua primeira carta revelada nesta rodada, reduza o Ataque e a Defesa da carta inimiga em 3 e receba +4 no resultado da rodada.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "nsDh8RqV0IeJGKps",
+    "name": "Aprendiz de Runas",
+    "img": "images/icons/skills/rune_icon_25.webp",
+    "tipo": "criatura",
+    "arquetipo": "Conjurador / Arcano",
+    "ataque": 4,
+    "defesa": 1,
+    "efeito": "Se no final da rodada você estiver perdendo por 4 ou menos, você pode revelar uma nova carta e deve usá-la no lugar dessa.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "j8GBegyDw7F6CS7s",
+    "name": "Rajada Mística",
+    "img": "icons/magic/lightning/bolt-strike-blue.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano",
+    "ataque": 6,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +2 no resultado da rodada.",
+    "engaste": [
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "3vvSKcxsrIqEfjNE",
+    "name": "Mísseis Mágicos",
+    "img": "icons/magic/light/projectile-stars-blue.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "Ignore a Defesa inimiga. Se a carta inimiga tem 0 de Defesa, receba +2 no resultado dessa rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dZKvvWHjtAM4WTtS",
+    "name": "Ilusionista Menor",
+    "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+    "tipo": "criatura",
+    "arquetipo": "Conjurador / Arcano",
+    "ataque": 3,
+    "defesa": 2,
+    "efeito": "Se o ataque da carta inimiga for maior que 5, o oponente deve revelar outra carta e usar a nova carta.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "nz8YpSWaMINes2Bt",
+    "name": "Escudo Arcano",
+    "img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano",
+    "ataque": 0,
+    "defesa": 6,
+    "efeito": "Se a Defesa dessa carta for maior que o Ataque inimigo, a carta inimiga perde seu efeito.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "HeGXFACRsZGk0dvq",
+    "name": "Bola de Fogo",
+    "img": "icons/magic/fire/projectile-fireball-orange.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano / Elemental",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Se a Defesa da carta inimiga for 4 ou menor, ignore-a.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "RB0cuyCFZo3DHgYp",
+    "name": "Malvexo",
+    "img": "icons/magic/control/debuff-chains-orb-movement-blue.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano / Maldição",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "A carta inimiga não pode receber bônus nesta rodada.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dh45Oe0CxRkQcYQO",
+    "name": "Adepto Arcanista",
+    "img": "icons/equipment/head/headwrap-cloth-purple.webp",
+    "tipo": "criatura",
+    "arquetipo": "Conjurador / Arcano",
+    "ataque": 6,
+    "defesa": 6,
+    "efeito": "Se você empatar esta rodada, revele outra carta e aplique o efeito dela.",
+    "engaste": [
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "siMUqAiA3l1SCGbj",
+    "name": "Porta Dimensional",
+    "img": "icons/magic/symbols/ring-circle-smoke-blue.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano",
+    "ataque": 2,
+    "defesa": 4,
+    "efeito": "Troque o Ataque desta carta pelo Ataque da carta inimiga nesta rodada.",
+    "engaste": [
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "5DCBskTfpyi6ACla",
+    "name": "Tempestade de Éter",
+    "img": "icons/magic/air/wind-vortex-swirl-blue-purple.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano",
+    "ataque": 6,
+    "defesa": 2,
+    "efeito": "Reduza o Ataque e a Defesa da carta inimiga em 3 nesta rodada.",
+    "engaste": [
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "XnSwJoNv9xSql1fF",
+    "name": "Desintegrar",
+    "img": "icons/magic/unholy/beam-impact-green.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Ignore a Defesa inimiga. Se o Ataque desta carta for maior que o Ataque inimigo, o inimigo recebe -2 no resultado dessa rodada.",
+    "engaste": [
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "UQBhquK1sM2wS5EZ",
+    "name": "Aleister, o Mago Louco",
+    "img": "images/icons/Achievement_Boss_Archaedas.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano / Lendário",
+    "ataque": 10,
+    "defesa": 3,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque e Defesa combinada do inimigo, ignore a Defesa inimiga e receba +4 no resultado da rodada. Se esta for sua segunda carta revelada na rodada, revele uma terceira carta e aplique seu efeito.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "iqQn7KRhBNV8jc5K",
+    "name": "Grumete Desastrado",
+    "img": "images/icons/Ships_ABILITY_BoardingPartyALLIANCE.webp",
+    "tipo": "criatura",
+    "arquetipo": "Pirata",
+    "ataque": 2,
+    "defesa": 3,
+    "efeito": "Se a carta inimiga receber um bônus nesta rodada, receba +2 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "Ok0ddotcf3N0yM3Z",
+    "name": "Faca de Convés",
+    "img": "icons/weapons/daggers/dagger-simple-black.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Pirata / Ladino",
+    "ataque": 4,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +1 no resultado da rodada e reduza em 1 o resultado final do oponente.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "9YyjXNcZoIKmidc0",
+    "name": "Corsária do Abismo",
+    "img": "images/icons/Ability_IronMaidens_MaraksBloodcalling.webp",
+    "tipo": "criatura",
+    "arquetipo": "Pirata / Demônio",
+    "ataque": 5,
+    "defesa": 3,
+    "efeito": "Mova o resultado da rolagem de Carta inimiga em 2 posições para baixo.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "pj5kgG0Gyp3nbiCd",
+    "name": "Bandeira da Maré-Dura",
+    "img": "icons/sundries/flags/banner-flag-pirate.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Pirata",
+    "ataque": 4,
+    "defesa": 0,
+    "efeito": "A Defesa da criatura inimiga é reduzida a 0 nesta rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "x6MfRfAXuIFaYE7n",
+    "name": "Ogro Pirata",
+    "img": "images/icons/Achievement_Dungeon_ChopperRedhook.webp",
+    "tipo": "criatura",
+    "arquetipo": "Pirata / Gigante",
+    "ataque": 6,
+    "defesa": 3,
+    "efeito": "O oponente deve revelar outra carta e usar a nova carta.",
+    "engaste": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "Nazv9Zlfq151jybD",
+    "name": "Tiro de Pistola",
+    "img": "icons/skills/ranged/cannon-barrel-firing-white-yellow.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Pirata / Ladino",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, reduza em 2 o resultado final do oponente.",
+    "engaste": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "Mmk75OngcKRTn0WW",
+    "name": "Pirata Sortudo",
+    "img": "icons/commodities/currency/coin-embossed-octopus-gold.webp",
+    "tipo": "criatura",
+    "arquetipo": "Pirata",
+    "ataque": 5,
+    "defesa": 2,
+    "efeito": "Se você perder a rodada, revele outra carta. Se ela tiver Ataque maior, use-a no lugar desta.",
+    "engaste": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "4OhYOhMvO95Dd2Pj",
+    "name": "Abordagem!",
+    "img": "icons/skills/melee/swords-parry-block-blue.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Pirata",
+    "ataque": 6,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, copie o efeito da carta inimiga.",
+    "engaste": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "rLUE6Mke9zDNCLMT",
+    "name": "Capitã Sereia",
+    "img": "images/class-icons/ladino/SPELL_HOLY_SILENCE.webp",
+    "tipo": "criatura",
+    "arquetipo": "Pirata / Elemental",
+    "ataque": 2,
+    "defesa": 4,
+    "efeito": "Troque o Ataque desta carta pelo Ataque da carta inimiga nesta rodada.",
+    "engaste": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "NJW73kdeya5XcaIA",
+    "name": "Confusão de Pirata",
+    "img": "images/icons/Ships_ABILITY_DepthCharges.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Pirata",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Ambos os jogadores revelam outra carta. Você escolhe se usa a carta antiga ou a nova.",
+    "engaste": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ZqxJHQnPzNh6inGh",
+    "name": "Canhão do Saqueador",
+    "img": "icons/weapons/artillery/cannon-engraved-gold.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Pirata",
+    "ataque": 8,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, reduza em 3 o resultado final do oponente.",
+    "engaste": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "WrmD5vmG5CoHAHdt",
+    "name": "Rei da Maré",
+    "img": "images/icons/cortedamare.png",
+    "tipo": "criatura",
+    "arquetipo": "Pirata / Lendário",
+    "ataque": 8,
+    "defesa": 4,
+    "efeito": "Copie o efeito da carta inimiga e reduza o Ataque dela em 2. Se o Ataque desta carta for maior que o Ataque inimigo, receba +3 no resultado da rodada.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "cWAqhnpIOwt8Jgzi",
+    "name": "Espectro Sussurrante",
+    "img": "icons/magic/death/undead-ghost-scream-teal.webp",
+    "tipo": "criatura",
+    "arquetipo": "Morto-Vivo",
+    "ataque": 3,
+    "defesa": 1,
+    "efeito": "Reduza o Ataque da carta inimiga em 1 nesta rodada. Se você comprou esta carta a partir da 2ª rodada, reduza em 2 em vez de 1.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "unGgJCjeT3GeCjV1",
+    "name": "Toque da Cova",
+    "img": "images/Warlock_Curse_Shadow.webp",
+    "tipo": "magia",
+    "arquetipo": "Morto-Vivo",
+    "ataque": 4,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for menor que o Ataque inimigo, reduza em 1 o resultado final do oponente. Se o resultado final do inimigo for ímpar, você ganha +2 no seu resultado final.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "pt2amFJXaw6CgtPg",
+    "name": "Zumbi Faminto",
+    "img": "images/icons/Ability_DeathKnight_Reanimation.webp",
+    "tipo": "criatura",
+    "arquetipo": "Morto-Vivo",
+    "ataque": 5,
+    "defesa": 1,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +2 no resultado da rodada.",
+    "engaste": [
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "rlN2QzS8yF6AKhNW",
+    "name": "Esqueleto Guerreiro",
+    "img": "images/icons/Spell_DeathKnight_Subversion.webp",
+    "tipo": "criatura",
+    "arquetipo": "Morto-Vivo / Guerreiro",
+    "ataque": 4,
+    "defesa": 2,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +2 no resultado da rodada.",
+    "engaste": [
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "lWEUx0rbZqFPY1Xa",
+    "name": "Drenar Vitalidade",
+    "img": "images/icons/Spell_Warlock_HarvestofLife.webp",
+    "tipo": "magia",
+    "arquetipo": "Morto-Vivo",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "Reduza a Defesa da criatura inimiga em 3 nesta rodada. Se a Defesa final da criatura for 0, você recebe +2 no resultado da rodada.",
+    "engaste": [
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "QafLnxsj8Uq8d1Xe",
+    "name": "Cavaleiro da Sepultura",
+    "img": "images/icons/Achievement_Boss_ScourgelordTyrannus.webp",
+    "tipo": "criatura",
+    "arquetipo": "Morto-Vivo / Cavaleiro",
+    "ataque": 6,
+    "defesa": 2,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, reduza em 2 o resultado final do oponente.",
+    "engaste": [
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "aTSbc4lYAVLRDIx1",
+    "name": "Maldição do Luto",
+    "img": "icons/magic/death/skull-energy-light-purple.webp",
+    "tipo": "magia",
+    "arquetipo": "Morto-Vivo / Maldição",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "A carta inimiga não pode receber bônus nesta rodada. Se você puxar essa carta na terceira rodada, ela tem +3 de Ataque.",
+    "engaste": [
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "oOdKUWz7cYwh2c04",
+    "name": "Necromante Menor",
+    "img": "images/icons/Achievement_Dungeon_SanguineDepths_Berylia.webp",
+    "tipo": "criatura",
+    "arquetipo": "Conjurador / Morto-Vivo",
+    "ataque": 6,
+    "defesa": 2,
+    "efeito": "Se a defesa dessa carta for menor que o Ataque da carta inimiga, revele outra carta e escolha qual usar.",
+    "engaste": [
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "gT72ZMcKPcmcV4ek",
+    "name": "Correntes da Cripta",
+    "img": "https://i.imgur.com/ETBisvf.png",
+    "tipo": "habilidade",
+    "arquetipo": "Morto-Vivo",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Reduza o Ataque da carta inimiga em 3 nesta rodada. Se a Defesa inimiga for 5 ou menor, você também tem a mesma quantidade de Defesa que a carta inimiga.",
+    "engaste": [
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "w6klged5lhKcmHf6",
+    "name": "Abominação Ressuscitada",
+    "img": "images/icons/Achievement_Boss_patchwerk.webp",
+    "tipo": "criatura",
+    "arquetipo": "Morto-Vivo",
+    "ataque": 7,
+    "defesa": 2,
+    "efeito": "Se você perder a rodada, revele outra carta. Se ela for uma Criatura, some metade do Ataque dela ao seu resultado final.",
+    "engaste": [
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "EfXkXBAdk4lyff88",
+    "name": "Febre da Decomposição",
+    "img": "icons/magic/death/skull-poison-green.webp",
+    "tipo": "magia",
+    "arquetipo": "Morto-Vivo",
+    "ataque": 8,
+    "defesa": 0,
+    "efeito": "Reduza o Ataque e a Defesa da carta inimiga em 2 nesta rodada. Se essa carta foi puxada na terceira rodada, reduza em 4.",
+    "engaste": [
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "leVhDos3iJRE1O5L",
+    "name": "Larloch, o Imperador Lich",
+    "img": "images/icons/Achievement_Boss_LadyDeathwhisper.webp",
+    "tipo": "criatura",
+    "arquetipo": "Morto-Vivo / Lendário",
+    "ataque": 8,
+    "defesa": 5,
+    "efeito": "Reduza o Ataque e a Defesa da carta inimiga em 3 nesta rodada. Se o Ataque desta carta for maior que o Ataque inimigo, o oponente não pode usar o efeito de sua carta.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "4E6bKBVxnesRTj3I",
+    "name": "Mineiro das Profundezas",
+    "img": "icons/tools/hand/pickaxe-worn-steel-grey.webp",
+    "tipo": "criatura",
+    "arquetipo": "Anão",
+    "ataque": 3,
+    "defesa": 4,
+    "efeito": "Se a Defesa desta carta for maior que o Ataque inimigo, receba +2 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "SkVRS6pZ4SUvgFkt",
+    "name": "Runa de Proteção",
+    "img": "icons/magic/defensive/shield-barrier-glowing-triangle-blue.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano / Anão",
+    "ataque": 0,
+    "defesa": 6,
+    "efeito": "Se a Defesa dessa carta for maior que o Ataque inimigo, a carta inimiga perde seu efeito. Esse efeito funciona apenas em Criaturas.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "e24icgnr7CYQGR7R",
+    "name": "Guerreiro do Machado",
+    "img": "icons/weapons/axes/axe-battle-blackened.webp",
+    "tipo": "criatura",
+    "arquetipo": "Anão / Guerreiro",
+    "ataque": 5,
+    "defesa": 2,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +2 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ofZBdJNN4zbQl9JQ",
+    "name": "Guarda do Salão de Pedra",
+    "img": "images/icons/skills/avatar_dwarf_icon_50.webp",
+    "tipo": "criatura",
+    "arquetipo": "Anão / Cavaleiro",
+    "ataque": 2,
+    "defesa": 5,
+    "efeito": "Se a Defesa inimiga for 5 ou maior, essa carta tem +5 de Ataque.",
+    "engaste": [
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "U1agzhyjERy9f42O",
+    "name": "Muralha da Montanha",
+    "img": "icons/magic/earth/barrier-stone-explosion-red.webp",
+    "tipo": "magia",
+    "arquetipo": "Elemental",
+    "ataque": 2,
+    "defesa": 7,
+    "efeito": "Reduza o Ataque da carta inimiga em 2 nesta rodada.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "oASO3Aa5eIfDlK1G",
+    "name": "Ferreiro de Guerra",
+    "img": "icons/weapons/hammers/hammer-war-rounding.webp",
+    "tipo": "criatura",
+    "arquetipo": "Anão / Artífice",
+    "ataque": 6,
+    "defesa": 3,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, reduza em 2 a Defesa da carta inimiga.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "4p9wLmYmYpqwUzsj",
+    "name": "Desmoronamento",
+    "img": "icons/magic/earth/projectile-stone-landslide.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Elemental",
+    "ataque": 7,
+    "defesa": 1,
+    "efeito": "Reduza a Defesa da carta inimiga em 3 nesta rodada.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "NpS1gTl7FXoyX0Gn",
+    "name": "Prospector Rúnico",
+    "img": "icons/commodities/gems/gem-faceted-diamond-blue.webp",
+    "tipo": "criatura",
+    "arquetipo": "Anão",
+    "ataque": 4,
+    "defesa": 4,
+    "efeito": "Você pode revelar outra carta e escolher qual usar. Se for uma Magia ou Habilidade Especial, adicione o Ataque ou a Defesa do Prospector Rúnico nela.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ZojTCAxD9yWtqO3B",
+    "name": "Runa de Ferro",
+    "img": "icons/magic/symbols/runes-carved-stone-purple.webp",
+    "tipo": "magia",
+    "arquetipo": "Anão / Arcano",
+    "ataque": 5,
+    "defesa": 5,
+    "efeito": "A carta inimiga não pode receber bônus nesta rodada. Se você comprou esta carta a partir da 2ª rodada, ela tem +3 de Defesa.",
+    "engaste": [
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "gcFEZkM14FB6SiEN",
+    "name": "Sentinela de Granito",
+    "img": "images/icons/skills/grid-piece-1-4.webp",
+    "tipo": "criatura",
+    "arquetipo": "Elemental / Construto",
+    "ataque": 7,
+    "defesa": 6,
+    "efeito": "Se você perder esta rodada, revele outra carta e aplique o efeito dela. Se a carta revelada for uma Magia ou Ataque Especial, você também aplica metade do Ataque dela.",
+    "engaste": [
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "8APkTse9ZL48FCn2",
+    "name": "Ira da Montanha",
+    "img": "icons/magic/earth/projectile-boulder-dust.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge / Elemental",
+    "ataque": 8,
+    "defesa": 2,
+    "efeito": "Reduza o Ataque e a Defesa da carta inimiga em 2 nesta rodada.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "TuytCzsVr8oL5BFx",
+    "name": "Andorhal, o Devora-Troll",
+    "img": "images/icons/Ability_Racial_Avatar.webp",
+    "tipo": "criatura",
+    "arquetipo": "Anão / Lendário",
+    "ataque": 7,
+    "defesa": 9,
+    "efeito": "Essa carta ignora efeitos de redução. Se a Defesa desta carta for maior que o Ataque inimigo, reduza a Defesa inimiga em -3.\n‎ \n\n\nAdicionalmente, se você perder esta rodada e ela não for a rodada final da partida, você recebe +3 no resultado da rodada seguinte.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "JrQar1cw0FQ8AqDJ",
+    "name": "Goblin Fracote",
+    "img": "images/icons/skills/grid-piece-2-3.webp",
+    "tipo": "criatura",
+    "arquetipo": "Goblin",
+    "ataque": 3,
+    "defesa": 2,
+    "efeito": "Se o Ataque desta carta for menor que o Ataque inimigo, receba +1 no resultado da rodada.\n\n‎ \nSe puxar essa carta e ela estiver equipada no engaste 12, você pode rolar [[/r 1d8]] e adicionar ao resultado.",
+    "engaste": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "KCQrGBtClUMJ8GXZ",
+    "name": "Bomba Improvisada",
+    "img": "images/icons/Ability_Vehicle_LiquidPyrite.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Goblin / Artífice",
+    "ataque": 8,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, reduza em 2 o seu resultado final.",
+    "engaste": [
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "Nmn4lFQG49oGue9c",
+    "name": "Batedor Goblin",
+    "img": "images/icons/avatar_goblin_icon_12.webp",
+    "tipo": "criatura",
+    "arquetipo": "Goblin / Arqueiro",
+    "ataque": 5,
+    "defesa": 1,
+    "efeito": "Você pode escolher revelar outra carta e deve usar ela. A Defesa da nova carta tem valor alterado para 3.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "B37rABCrNA8hDUMC",
+    "name": "Soldado Hobgoblin",
+    "img": "icons/weapons/polearms/pike-flared-red.webp",
+    "tipo": "criatura",
+    "arquetipo": "Goblin / Guerreiro",
+    "ataque": 5,
+    "defesa": 3,
+    "efeito": "A carta inimiga não pode receber bônus nesta rodada.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "Isdbd9gxwXpShObl",
+    "name": "Armadilha Mal Montada",
+    "img": "icons/environment/traps/trap-jaw-green.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Goblin / Artífice",
+    "ataque": 3,
+    "defesa": 0,
+    "efeito": "Reduza o Ataque da carta inimiga em 4 nesta rodada. Se o ataque final da carta inimiga for 0, você recebe +2 no resultado final.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "gPfkc3hGf4IO4z4S",
+    "name": "Bando de Goblins",
+    "img": "images/icons/troop_nobend_brothers.webp",
+    "tipo": "criatura",
+    "arquetipo": "Goblin",
+    "ataque": 8,
+    "defesa": 4,
+    "efeito": "Se você perder esta rodada e ela não for a última da partida, você começa a próxima rodada com redutor de -1.",
+    "engaste": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "lQq8AXgC9RgKYiH5",
+    "name": "Pórva Goblin",
+    "img": "images/icons/Ability_IronMaidens_DetonationSequence.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Goblin / Artífice",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Reduza o Ataque e a Defesa da carta inimiga em 2 nesta rodada. Se você ganhar a rodada e ela não for a final, você começa a próxima rodada com redutor de -2.",
+    "engaste": [
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ZFQQLg5IeYcGvVUq",
+    "name": "Atirador de Estilingue",
+    "img": "icons/weapons/slings/slingshot-wood.webp",
+    "tipo": "criatura",
+    "arquetipo": "Goblin",
+    "ataque": 4,
+    "defesa": 2,
+    "efeito": "O oponente deve revelar outra carta e usar a nova carta. Se você perder a rodada e ela não for a última, você começa a próxima rodada com um bônus de +2 no resultado.",
+    "engaste": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "q3zd9W1D0J6tUmJV",
+    "name": "Bugbear Berserker",
+    "img": "images/icons/Achievement_Boss_Norushen.webp",
+    "tipo": "criatura",
+    "arquetipo": "Goblin / Bárbaro",
+    "ataque": 8,
+    "defesa": 2,
+    "efeito": "Se o Ataque desta carta for menor que o Ataque inimigo, receba +3 no resultado da rodada.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "zTDS6Yy1isWrVMPT",
+    "name": "Truque Sujo",
+    "img": "images/icons/skills/goblin_skill_icon_38.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Goblin / Artífice",
+    "ataque": 1,
+    "defesa": 0,
+    "efeito": "Troque o Ataque desta carta pelo Ataque da carta inimiga nesta rodada. Você ignora a defesa da carta inimiga.",
+    "engaste": [
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "pKKzvozt8mxlADJ0",
+    "name": "Capitão Hobgoblin",
+    "img": "images/icons/Achievement_BG_KillXEnemies_GeneralsRoom.webp",
+    "tipo": "criatura",
+    "arquetipo": "Goblin / Cavaleiro",
+    "ataque": 7,
+    "defesa": 4,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, ignore a Defesa inimiga. Se o Ataque desta carta for menor que o Ataque inimigo, ele ignora a Defesa dela.",
+    "engaste": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "e2LNBHdIR6sx4mxA",
+    "name": "Urugg, o Senhor dos Goblins",
+    "img": "images/icons/Achievement_Dungeon_UtgardeKeep_25man.webp",
+    "tipo": "criatura",
+    "arquetipo": "Goblin / Lendário",
+    "ataque": 11,
+    "defesa": 5,
+    "efeito": "Se a carta inimiga for uma Criatura, ignore a Defesa inimiga. Se a carta inimiga for uma Magia, ela ignora a defesa dessa carta.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd01MnsNovat001",
+    "name": "Menestrel Novato",
+    "img": "icons/skills/trades/music-notes-sound-blue.webp",
+    "tipo": "criatura",
+    "arquetipo": "Bardo",
+    "ataque": 3,
+    "defesa": 2,
+    "efeito": "Se você perder a rolagem de Duelo, receba +2 no Resultado Provisório.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd02CncBravur002",
+    "name": "Canção da Bravura",
+    "img": "images/icons/skills/bard_skill_icon_33.webp",
+    "tipo": "magia",
+    "arquetipo": "Bardo / Melodia",
+    "ataque": 2,
+    "defesa": 2,
+    "efeito": "Receba +1 no resultado desta rodada. A carta que você revelar na próxima rodada ganha +2 de Ataque.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd03AludEncant03",
+    "name": "Alaúde Encantado",
+    "img": "icons/tools/instruments/lute-gold-brown.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Bardo / Arcano",
+    "ataque": 4,
+    "defesa": 1,
+    "efeito": "Some o valor do seu Bônus de Proficiência ao seu resultado final desta rodada.",
+    "engaste": [
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd04CavInspir004",
+    "name": "Cavaleiro Inspirado",
+    "img": "images/icons/swordman_skill_icon_12.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro / Bardo",
+    "ataque": 3,
+    "defesa": 3,
+    "efeito": "Recebe +1 de Ataque e +1 de Defesa para cada outra carta do arquétipo Bardo no seu baralho (máx +4).",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd05HinoResili05",
+    "name": "Hino da Resiliência",
+    "img": "images/icons/skills/bard_skill_icon_32.webp",
+    "tipo": "magia",
+    "arquetipo": "Bardo / Melodia",
+    "ataque": 1,
+    "defesa": 5,
+    "efeito": "Se perder esta rodada por 3 ou menos, você começa a próxima rodada com +3 no Resultado Provisório.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd06DancEspad006",
+    "name": "Dançarina de Espadas",
+    "img": "icons/weapons/swords/scimitar-guard-gold.webp",
+    "tipo": "criatura",
+    "arquetipo": "Bardo / Ladino",
+    "ataque": 6,
+    "defesa": 3,
+    "efeito": "Se você venceu a rolagem de Duelo nesta rodada, esta carta ignora a Defesa da carta inimiga.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd07DuetHipnot07",
+    "name": "Dueto Hipnótico",
+    "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Bardo",
+    "ataque": 4,
+    "defesa": 2,
+    "efeito": "O oponente não pode usar Habilidades de Iujio nesta rodada. Se ele já usou na partida, receba +3 no resultado da rodada.",
+    "engaste": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd08MestCerim008",
+    "name": "Mestre de Cerimônias",
+    "img": "images/icons/skills/bard_skill_icon_40.webp",
+    "tipo": "criatura",
+    "arquetipo": "Bardo",
+    "ataque": 5,
+    "defesa": 4,
+    "efeito": "Se esta rodada terminar em empate no Resultado Provisório, você vence a rodada sem precisar de nova rolagem.",
+    "engaste": [
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd09BldHerois009",
+    "name": "Balada dos Heróis Caídos",
+    "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
+    "tipo": "magia",
+    "arquetipo": "Bardo / Sagrado",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "Se você já perdeu uma rodada nesta partida, receba +4 no resultado desta rodada.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd10ReqEnsurd010",
+    "name": "Réquiem Ensurdecedor",
+    "img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+    "tipo": "magia",
+    "arquetipo": "Bardo / Arcano",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Reduza o resultado de Duelo do oponente pela metade (arredondado para cima) nesta rodada.",
+    "engaste": [
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd11SolistVirt011",
+    "name": "Solista Virtuoso",
+    "img": "images/icons/skills/bard_skill_icon_41.webp",
+    "tipo": "criatura",
+    "arquetipo": "Bardo",
+    "ataque": 7,
+    "defesa": 5,
+    "efeito": "Se o oponente tiver mais cartas do tipo Criatura no baralho que você, receba +3 no resultado final.",
+    "engaste": [
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "brd12OrfeuMaest012",
+    "name": "Ludovico, Músico Experimental",
+    "img": "images/icons/skills/ability_brokerjazzband_guitar.webp",
+    "tipo": "criatura",
+    "arquetipo": "Bardo / Lendário",
+    "ataque": 6,
+    "defesa": 7,
+    "efeito": "Copie todos os bônus numéricos que a carta inimiga aplicaria a ela mesma. Você pode usar sua Habilidade de Iujio mesmo se já tiver usado nesta partida.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr01NoticEsprei1",
+    "name": "Nótico Espreitador",
+    "img": "images/icons/cfur6f8.webp",
+    "tipo": "criatura",
+    "arquetipo": "Aberrante",
+    "ataque": 3,
+    "defesa": 2,
+    "efeito": "Se você for o segundo a revelar a carta nesta rodada, copie a Defesa da carta inimiga.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr02GosmAcre0002",
+    "name": "Gosma Ocre",
+    "img": "images/icons/ability_creature_amber_01.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monstruosidade",
+    "ataque": 2,
+    "defesa": 5,
+    "efeito": "A carta inimiga perde 1 de Ataque e 1 de Defesa para cada rodada restante nesta partida.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr03RaioDesint03",
+    "name": "Raio Desintegrador Menor",
+    "img": "icons/magic/unholy/beam-impact-green.webp",
+    "tipo": "magia",
+    "arquetipo": "Aberrante / Arcano",
+    "ataque": 6,
+    "defesa": 0,
+    "efeito": "Se a Defesa inimiga for ímpar, ignore a Defesa. Se for par, reduza o Ataque inimigo em 2.",
+    "engaste": [
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr04CuboGelat004",
+    "name": "Cubo Gelatinoso",
+    "img": "images/icons/0vbt3gr.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monstruosidade / Gosma",
+    "ataque": 1,
+    "defesa": 7,
+    "efeito": "Se a carta inimiga for uma Criatura, ela perde o efeito e o Ataque dela é reduzido em 2.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr05BasiliscPet5",
+    "name": "Basilisco Verdejante",
+    "img": "images/icons/xhcismw.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monstruosidade",
+    "ataque": 5,
+    "defesa": 4,
+    "efeito": "A Defesa inimiga é reduzida a 0. Se a carta inimiga tiver Ataque 6 ou mais, ela perde o efeito.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr06DevorMentes6",
+    "name": "Devorador de Mentes",
+    "img": "images/icons/anrbxm5.webp",
+    "tipo": "criatura",
+    "arquetipo": "Aberrante",
+    "ataque": 6,
+    "defesa": 3,
+    "efeito": "Reduza a Defesa da carta inimiga em um valor igual ao próprio Ataque dela nesta rodada (mínimo de 0 de Defesa).",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr07UrsoCoruja07",
+    "name": "Urso-Coruja Encouraçado",
+    "img": "images/icons/yvbpsiu.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monstruosidade",
+    "ataque": 7,
+    "defesa": 3,
+    "efeito": "Se o Ataque inimigo for maior que a Defesa desta carta, esta carta ganha +3 de Ataque antes de calcular o dano.",
+    "engaste": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr08MimicVoraz08",
+    "name": "Mímico Voraz",
+    "img": "images/icons/grid-piece-2-7-copia.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monstruosidade",
+    "ataque": 0,
+    "defesa": 5,
+    "efeito": "O Ataque desta carta se torna igual ao Ataque da carta inimiga + 2.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr09HidraSete009",
+    "name": "Peco-Peco Psicopata",
+    "img": "images/icons/9et9tps.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monstruosidade",
+    "ataque": 5,
+    "defesa": 5,
+    "efeito": "Se você puxar essa mesma carta em duas rodadas seguidas, ganhe a partida.",
+    "engaste": [
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr10OlhoNegac010",
+    "name": "Olho da Negação",
+    "img": "icons/magic/perception/eye-slit-pink.webp",
+    "tipo": "magia",
+    "arquetipo": "Aberrante",
+    "ataque": 5,
+    "defesa": 5,
+    "efeito": "Anule os efeitos da carta inimiga se for Magia ou Habilidade. Se for Criatura, reduza o Ataque dela em 2.",
+    "engaste": [
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr11QuimerTrip11",
+    "name": "Quimera Experimental",
+    "img": "images/icons/vynsl30.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monstruosidade / Dragão",
+    "ataque": 7,
+    "defesa": 4,
+    "efeito": "Se a carta inimiga for Magia, ignore a Defesa dela (caso tenha). Se for uma Criatura, ganhe +3 de Defesa.",
+    "engaste": [
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "abr12TiranOcul012",
+    "name": "Nihiloom, Arauto da Segunda Vida",
+    "img": "images/icons/fmbquoe.webp",
+    "tipo": "criatura",
+    "arquetipo": "Aberrante / Lendário",
+    "ataque": 8,
+    "defesa": 6,
+    "efeito": "Anule todos os efeitos da carta inimiga. Role [[/r 1d6]] e adicione o resultado diretamente ao seu Resultado Provisório.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg01KoboldDev001",
+    "name": "Kobold Devoto",
+    "img": "images/icons/grid-piece-2-2.webp",
+    "tipo": "criatura",
+    "arquetipo": "Dragão / Ladino",
+    "ataque": 2,
+    "defesa": 2,
+    "efeito": "Se houver 4 ou mais cartas do arquétipo Dragão no seu baralho, receba +2 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg02GarrDracon02",
+    "name": "Garras Dracônicas",
+    "img": "images/icons/claw_strike.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Dragão",
+    "ataque": 5,
+    "defesa": 1,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +2 no resultado final.",
+    "engaste": [
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg03WyrmlBronz03",
+    "name": "Draconito de Ambar",
+    "img": "images/icons/inv_10_dungeonjewelry_dragon_trinket_5_bronze_resultado.webp",
+    "tipo": "criatura",
+    "arquetipo": "Dragão / Elemental",
+    "ataque": 5,
+    "defesa": 3,
+    "efeito": "Se você for o primeiro a revelar a carta na rodada, reduza o Ataque da carta inimiga em 2.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg04EscamImpen04",
+    "name": "Escamas Impenetráveis",
+    "img": "images/icons/inv_10_skinning_dragonscales_red_resultado.webp",
+    "tipo": "magia",
+    "arquetipo": "Dragão / Defensivo",
+    "ataque": 0,
+    "defesa": 7,
+    "efeito": "Ignore reduções de Defesa. Se a carta inimiga for uma Habilidade, ela não causa Dano de Carta.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg05Wyverncacad5",
+    "name": "Wyvern Caçador",
+    "img": "images/icons/wwobhix.webp",
+    "tipo": "criatura",
+    "arquetipo": "Dragão / Monstruosidade",
+    "ataque": 6,
+    "defesa": 2,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, reduza a Defesa inimiga a 0 nesta rodada.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg06PrescAterr06",
+    "name": "Terror",
+    "img": "images/icons/f8jol5m.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Cavaleiro / Dragão / Aura",
+    "ataque": 4,
+    "defesa": 4,
+    "efeito": "Reduza o Duelo inimigo em 4 (mínimo 1). Se vencer a rodada, ganhe +1 no próximo Duelo.",
+    "engaste": [
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg07DragCripta07",
+    "name": "Dragão da Cripta",
+    "img": "images/icons/achievement_boss_sindragosa.webp",
+    "tipo": "criatura",
+    "arquetipo": "Dragão / Morto-Vivo",
+    "ataque": 8,
+    "defesa": 4,
+    "efeito": "Se esta for a 2ª ou 3ª rodada da partida, esta carta recebe +3 de Ataque.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg08SoprChamas08",
+    "name": "Sopro de Chamas",
+    "img": "icons/magic/fire/blast-jet-stream-embers-yellow.webp",
+    "tipo": "magia",
+    "arquetipo": "Dragão / Elemental",
+    "ataque": 6,
+    "defesa": 0,
+    "efeito": "Ignore a Defesa inimiga. Se o Ataque inimigo for 5 ou menor, reduza em 3 o resultado final dele.",
+    "engaste": [
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg09DragJade009",
+    "name": "Dragão de Jade Protetor",
+    "img": "images/icons/inv_celestialserpentmount_jade.webp",
+    "tipo": "criatura",
+    "arquetipo": "Dragão / Sagrado",
+    "ataque": 6,
+    "defesa": 8,
+    "efeito": "Se a Defesa desta carta for maior que o Ataque inimigo, adicione a diferença ao seu Resultado Provisório.",
+    "engaste": [
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg10CobicDrag010",
+    "name": "Cobiça do Dragão",
+    "img": "images/icons/dragon_loot_icon_43.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Dragão",
+    "ataque": 8,
+    "defesa": 2,
+    "efeito": "Ganhe +1 de Ataque para cada carta Lendária ou Magia revelada na partida.",
+    "engaste": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg11DragVermAn11",
+    "name": "Dragão Vermelho Ancião",
+    "img": "images/icons/6innudf.webp",
+    "tipo": "criatura",
+    "arquetipo": "Dragão",
+    "ataque": 9,
+    "defesa": 5,
+    "efeito": "Ignore a Defesa inimiga. Se a carta inimiga tiver Ataque menor que 5, ela perde o efeito.",
+    "engaste": [
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "drg12TiamatRainh12",
+    "name": "Tiamat, Rainha Dracônica",
+    "img": "images/icons/t5kep1j.webp",
+    "tipo": "criatura",
+    "arquetipo": "Dragão / Lendário",
+    "ataque": 10,
+    "defesa": 7,
+    "efeito": "Se essa é a rodada final, dobre o Dano causado por esta carta.",
+    "engaste": [
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele01FagulhViv001",
+    "name": "Fagulha Viva",
+    "img": "images/icons/inv_10_elementalspiritfoozles_fire.webp",
+    "tipo": "criatura",
+    "arquetipo": "Elemental / Fogo",
+    "ataque": 4,
+    "defesa": 0,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +2 no resultado da rodada.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele02BrisProte002",
+    "name": "Brisa Protetora",
+    "img": "images/icons/aeromancer_skill_icon_06.webp",
+    "tipo": "magia",
+    "arquetipo": "Elemental / Ar",
+    "ataque": 2,
+    "defesa": 4,
+    "efeito": "Se o Ataque inimigo for 6 ou maior, reduza o Ataque inimigo em 3 nesta rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele03GotRestaur03",
+    "name": "Gota Restauradora",
+    "img": "icons/magic/water/tendrils-ice-growth.webp",
+    "tipo": "magia",
+    "arquetipo": "Elemental / Água",
+    "ataque": 1,
+    "defesa": 5,
+    "efeito": "Se você perder esta rodada por 2 ou menos, a rodada é considerada um Empate.",
+    "engaste": [
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele04ElemTerrMen4",
+    "name": "Elemental da Terra Menor",
+    "img": "images/icons/spell_nature_earthelemental_totem.webp",
+    "tipo": "criatura",
+    "arquetipo": "Elemental / Terra",
+    "ataque": 3,
+    "defesa": 6,
+    "efeito": "Esta carta não pode ter sua Defesa reduzida por efeitos inimigos.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele05LancGelo0005",
+    "name": "Lança de Gelo",
+    "img": "icons/magic/water/projectile-icecicle.webp",
+    "tipo": "magia",
+    "arquetipo": "Elemental / Água",
+    "ataque": 6,
+    "defesa": 2,
+    "efeito": "Se a Defesa inimiga for 4 ou menor, reduza o Ataque da carta inimiga em 2.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele06VortPoeira06",
+    "name": "Vórtice de Poeira",
+    "img": "icons/magic/air/wind-tornado-spiral-brown.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Elemental / Ar",
+    "ataque": 5,
+    "defesa": 3,
+    "efeito": "Revele outra carta. Se a nova carta for do arquétipo Elemental, some o Ataque dela a esta carta.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele07LabarDevor07",
+    "name": "Labareda Devoradora",
+    "img": "icons/magic/fire/flame-burning-fence.webp",
+    "tipo": "magia",
+    "arquetipo": "Elemental / Fogo",
+    "ataque": 8,
+    "defesa": 0,
+    "efeito": "Se o inimigo for Criatura, você sofre -2 no Resultado Final.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele08GolemMama008",
+    "name": "Golem de Magma",
+    "img": "images/icons/grid-piece-5-3-copia-copia.webp",
+    "tipo": "criatura",
+    "arquetipo": "Elemental / Fogo / Terra",
+    "ataque": 7,
+    "defesa": 5,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, reduza a Defesa inimiga em 2.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele09TsunamDev009",
+    "name": "Tsunami Devastador",
+    "img": "icons/magic/water/wave-water-blue.webp",
+    "tipo": "magia",
+    "arquetipo": "Elemental / Água",
+    "ataque": 6,
+    "defesa": 4,
+    "efeito": "Transforme todos os bônus numéricos positivos da carta inimiga em penalidades negativas equivalentes.",
+    "engaste": [
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele10FuriCiclon10",
+    "name": "Fúria dos Ciclones",
+    "img": "icons/magic/air/wind-tornado-funnel-gray.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Elemental / Ar",
+    "ataque": 7,
+    "defesa": 2,
+    "efeito": "Ignore a Defesa inimiga. Se você venceu o Duelo por 3 ou mais de diferença, receba +3 no resultado da rodada.",
+    "engaste": [
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele11TitaGranit11",
+    "name": "Titã de Granito",
+    "img": "icons/creatures/magical/construct-face-stone-pink.webp",
+    "tipo": "criatura",
+    "arquetipo": "Elemental / Terra",
+    "ataque": 5,
+    "defesa": 10,
+    "efeito": "A Defesa dessa carta não pode ser reduzida, alterada ou modificada de nenhuma forma. Essa carta nunca perde seu efeito.",
+    "engaste": [
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ele12ConfluPrim12",
+    "name": "Confluência Primordial",
+    "img": "images/icons/inv_10_enchanting2_elementalswirl_color1.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Elemental / Lendário",
+    "ataque": 7,
+    "defesa": 6,
+    "efeito": "Escolha um: ou ignore a Defesa inimiga, ou dobre a Defesa desta carta, ou anule o efeito da carta inimiga.",
+    "engaste": [
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "cav01RecrutCast1",
+    "name": "Recruta do Castelo",
+    "img": "images/icons/24.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro",
+    "ataque": 2,
+    "defesa": 4,
+    "efeito": "Se você for o primeiro a revelar a carta na rodada, ganhe +2 de Defesa nesta rodada.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "cav02FormacFalan2",
+    "name": "Formação de Falange",
+    "img": "icons/environment/people/infantry-army.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Cavaleiro",
+    "ataque": 3,
+    "defesa": 6,
+    "efeito": "Se o seu baralho contiver 5 ou mais Criaturas do arquétipo Cavaleiro, receba +2 no resultado da rodada.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "cav03CargaPesad03",
+    "name": "Carga Pesada",
+    "img": "images/icons/skills/berserker_skill_icon_05.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Cavaleiro / Guerreiro",
+    "ataque": 7,
+    "defesa": 2,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, receba +2 no resultado final da rodada.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "cav04ComandAlvor4",
+    "name": "Comandante da Alvorada",
+    "img": "images/icons/paladin_skill_icon_33.webp",
+    "tipo": "criatura",
+    "arquetipo": "Cavaleiro / Sagrado",
+    "ataque": 6,
+    "defesa": 8,
+    "efeito": "Se você estiver perdendo a rodada antes da etapa de Habilidades, adicione metade da Defesa desta carta ao seu Resultado Provisório.",
+    "engaste": [
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "mon01PostuGarc001",
+    "name": "Postura da Garça",
+    "img": "images/class-icons/monge/monk_skill_icon_26.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge",
+    "ataque": 4,
+    "defesa": 2,
+    "efeito": "Se o Ataque inimigo for maior que o seu Ataque, receba +1 de Defesa e +1 no resultado final.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "mon02PalmReativ02",
+    "name": "Palma Reativa",
+    "img": "images/icons/skills/m7frqmg.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Monge",
+    "ataque": 4,
+    "defesa": 4,
+    "efeito": "Se a carta inimiga tentar reduzir seus atributos ou resultado, reverta a mesma redução contra o oponente.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "mon03MongAsceta03",
+    "name": "Monge Ascético",
+    "img": "images/icons/skills/monk_skill_icon_32.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monge",
+    "ataque": 6,
+    "defesa": 3,
+    "efeito": "Se você ainda não tiver usado sua habilidade, ganhe +3 no resultado da rodada. Você não pode usar sua habilidade nessa rodada.",
+    "engaste": [
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "mon04AvatDragCel4",
+    "name": "Avatar do Dragão Celestial",
+    "img": "images/class-icons/monge/Ability_Monk_SummonSerpentStatue.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monge / Dragão",
+    "ataque": 8,
+    "defesa": 6,
+    "efeito": "Se você for o segundo a revelar a carta na rodada, você pode optar por usar o seu valor de Ataque no lugar da sua Defesa (ou vice-versa).",
+    "engaste": [
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "lad01DistrBarat1",
+    "name": "Distração Barata",
+    "img": "images/icons/thief_skill_icon_23.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Ladino",
+    "ataque": 3,
+    "defesa": 1,
+    "efeito": "Se esta não for a primeira carta revelada por você nesta rodada, reduza o resultado de Duelo do oponente em 2.",
+    "engaste": [
+      1,
+      2
+    ],
+    "liberada": false
+  },
+  {
+    "id": "lad02TruqMaos002",
+    "name": "Prestidigitação",
+    "img": "images/icons/skills/thief_skill_icon_23.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Ladino",
+    "ataque": 5,
+    "defesa": 2,
+    "efeito": "Se você perder esta rodada, você pode forçar o oponente a revelar uma nova carta da tabela dele e usá-la no lugar da atual.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "lad03DancSombra3",
+    "name": "Dançarino das Sombras",
+    "img": "images/icons/gxp9dha.webp",
+    "tipo": "criatura",
+    "arquetipo": "Ladino",
+    "ataque": 6,
+    "defesa": 3,
+    "efeito": "Se esta for a sua segunda carta revelada nesta rodada, receba +4 no resultado e ignore a Defesa inimiga.",
+    "engaste": [
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "lad04MestrAssas4",
+    "name": "Mestre dos Mantis",
+    "img": "images/icons/tqb5tby.webp",
+    "tipo": "criatura",
+    "arquetipo": "Ladino / Lendário",
+    "ataque": 8,
+    "defesa": 4,
+    "efeito": "Se esta for sua 3ª carta revelada na rodada, ignorando a rolagem de Duelo do oponente.",
+    "engaste": [
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "arc01CentelConc1",
+    "name": "Centelha Concentrada",
+    "img": "images/icons/skills/pyromancer_skill_icon_02.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano / Elemental",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "Se o oponente tiver Defesa maior que 0, ignore 2 pontos de Defesa inimiga.",
+    "engaste": [
+      1,
+      2
+    ],
+    "liberada": false
+  },
+  {
+    "id": "arc02TransmCaot2",
+    "name": "Transmutação Caótica",
+    "img": "images/icons/summoner_skill_icon_25.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano",
+    "ataque": 4,
+    "defesa": 3,
+    "efeito": "Troque o Ataque da carta inimiga com a Defesa dela nesta rodada antes de calcular o dano.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "arc03BarreRunic3",
+    "name": "Barreira Rúnica Maior",
+    "img": "icons/magic/defensive/shield-barrier-flaming-diamond-teal-purple.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano / Anão",
+    "ataque": 0,
+    "defesa": 7,
+    "efeito": "Anule qualquer efeito de redução que lhe afetaria nessa rodada.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "arc04SingulArca4",
+    "name": "Singularidade Arcana",
+    "img": "icons/magic/light/projectile-halo-teal.webp",
+    "tipo": "magia",
+    "arquetipo": "Arcano / Lendário",
+    "ataque": 9,
+    "defesa": 0,
+    "efeito": "Se a carta inimiga for Magia ou Habilidade, some o Ataque da carta inimiga ao seu resultado final.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "pir01LadrBotes001",
+    "name": "Ladrão de Botas",
+    "img": "images/icons/alex-salter-blue-gob-fins.webp",
+    "tipo": "criatura",
+    "arquetipo": "Homúnculo",
+    "ataque": 3,
+    "defesa": 3,
+    "efeito": "Se a carta do oponente for uma Criatura que normalmente estaria usando uma bota, ela recebe -2 de Defesa nesta rodada.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "pir02TirCanhDupl2",
+    "name": "Tiro de Canhão Duplo",
+    "img": "icons/skills/ranged/blast-energy-plating-orange.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Pirata",
+    "ataque": 6,
+    "defesa": 0,
+    "efeito": "Se esta carta estiver em um engaste ímpar, ela ganha +2 de Ataque nesta rodada.",
+    "engaste": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "pir03ContrAstut3",
+    "name": "Contrabandista Astuto",
+    "img": "icons/commodities/currency/emblem-skull-steel-purple.webp",
+    "tipo": "criatura",
+    "arquetipo": "Pirata",
+    "ataque": 5,
+    "defesa": 4,
+    "efeito": "Se o oponente já usou uma habilidade nessa partida, role [[/r 1d4]] e reduza do resultado final dele.",
+    "engaste": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "pir04GaleoFant004",
+    "name": "Galeão Fantasma",
+    "img": "images/icons/achievement_dungeon_mawofsouls.webp",
+    "tipo": "criatura",
+    "arquetipo": "Pirata / Morto-Vivo",
+    "ataque": 7,
+    "defesa": 6,
+    "efeito": "Ambos os jogadores rolam [[/r 1d6]]. Você adiciona o seu resultado ao seu total; o oponente subtrai o dele do total dele.",
+    "engaste": [
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "mor01MaoRastej001",
+    "name": "Mão Rastejante",
+    "img": "images/icons/ghost_grasp_hand.webp",
+    "tipo": "criatura",
+    "arquetipo": "Morto-Vivo",
+    "ataque": 3,
+    "defesa": 1,
+    "efeito": "Se puxada na 1ª rodada da partida, ganha +1 de Ataque. Se for na 2ª ou 3ª rodada, ganha +3 de Ataque.",
+    "engaste": [
+      1,
+      2
+    ],
+    "liberada": false
+  },
+  {
+    "id": "mor02PesteNegr002",
+    "name": "Peste Anímica",
+    "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+    "tipo": "magia",
+    "arquetipo": "Morto-Vivo",
+    "ataque": 6,
+    "defesa": 0,
+    "efeito": "A carta inimiga perde 2 de Ataque e 2 de Defesa para cada rodada já concluída nesta partida.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "mor03CavTumbAnt3",
+    "name": "Cavaleiro da Tumba Antiga",
+    "img": "images/icons/avatar_undead_icon_nobg_20.webp",
+    "tipo": "criatura",
+    "arquetipo": "Morto-Vivo / Cavaleiro",
+    "ataque": 6,
+    "defesa": 5,
+    "efeito": "Se você estiver empatando ou perdendo por 1 ponto no Resultado Provisório, receba +3 no resultado final.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "mor04CeifMeiaNo4",
+    "name": "Volgor, a Mão Sombria",
+    "img": "images/icons/grid-piece-4-5-copia-copia.webp",
+    "tipo": "criatura",
+    "arquetipo": "Morto-Vivo / Lendário",
+    "ataque": 8,
+    "defesa": 6,
+    "efeito": "Se você estiver jogando a 3ª rodada da partida, ganhe +6 de Ataque e ignore a Defesa da carta inimiga.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ana01GuardTunel01",
+    "name": "Guarda de Túnel",
+    "img": "images/icons/grid-piece-2-6.webp",
+    "tipo": "criatura",
+    "arquetipo": "Anão",
+    "ataque": 3,
+    "defesa": 5,
+    "efeito": "Se o Ataque da carta inimiga for menor que a Defesa desta carta, receba +1 no resultado da rodada.",
+    "engaste": [
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ana02ForjaRunic02",
+    "name": "Forja Rúnica",
+    "img": "icons/tools/smithing/crucible.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Anão / Artífice",
+    "ataque": 4,
+    "defesa": 5,
+    "efeito": "A próxima carta que você revelar nesta partida ganha um bônus de +3 de Ataque ou +3 de Defesa (à sua escolha).",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ana03BaluarPicos3",
+    "name": "Baluarte dos Picos",
+    "img": "images/icons/inv_shield_pandariatradeskill_c_02.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Anão",
+    "ataque": 2,
+    "defesa": 8,
+    "efeito": "Reduza em 4 qualquer bônus numérico extra que o oponente somaria ao Resultado Provisório dele.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "ana04MaqCercAco04",
+    "name": "Máquina de Cerco Duergar",
+    "img": "images/icons/ability_vehicle_siegeenginecharge.webp",
+    "tipo": "criatura",
+    "arquetipo": "Construto / Anão",
+    "ataque": 8,
+    "defesa": 5,
+    "efeito": "Se a carta do oponente tiver 0 de Defesa, adicione a Defesa dessa carta é somada ao ataque.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "gob01LancFoguet01",
+    "name": "Lança-Foguetes Defeituoso",
+    "img": "images/icons/inv_firearm_2h_engineering_c_01_orange.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Goblin / Artífice",
+    "ataque": 5,
+    "defesa": 0,
+    "efeito": "Role [[/r 1d4]]: em um resultado 1, você sofre -3 no resultado da rodada; em 2, 3 ou 4, receba +2 no resultado.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "gob02SabotSorr002",
+    "name": "Sabotador Sorrateiro",
+    "img": "images/icons/inv_cape_special_goblinsapper_d_01_resultado.webp",
+    "tipo": "criatura",
+    "arquetipo": "Goblin",
+    "ataque": 4,
+    "defesa": 3,
+    "efeito": "Se vencer a rodada, o oponente tem um redutor de -5 na próxima rodada.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "gob03PilhDinam003",
+    "name": "Pilha de Dinamites",
+    "img": "images/icons/engineering_icon_33.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Goblin / Artífice",
+    "ataque": 7,
+    "defesa": 0,
+    "efeito": "Se vencer a rodada, aplique -3 no próximo Duelo do inimigo. Se perder, você sofre -3 no seu próximo Duelo.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "gob04MecaSucat004",
+    "name": "Meca-Sucata Desgovernado",
+    "img": "images/icons/ability_mount_shreddermount.webp",
+    "tipo": "criatura",
+    "arquetipo": "Construto / Goblin / Lendário",
+    "ataque": 9,
+    "defesa": 2,
+    "efeito": "Se você perder o Duelo, sofre -4 de Ataque. Se você vencer o Duelo, ignore a Defesa inimiga.",
+    "engaste": [
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "9Q35oOf1JYerjbBm",
+    "name": "Tarrasque",
+    "img": "images/icons/zwcf1yc.webp",
+    "tipo": "criatura",
+    "arquetipo": "Monstruosidade / Lendário",
+    "ataque": 9,
+    "defesa": 9,
+    "efeito": "Ataque e defesa dessa carta não podem ser reduzidos ou alterados. Efeitos não funcionam nessa carta.",
+    "engaste": [
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "j5KhsbzXVwBa7ryS",
+    "name": "Filho da Puta",
+    "img": "images/icons/tabmalb.webp",
+    "tipo": "criatura",
+    "arquetipo": "Corno",
+    "ataque": 1,
+    "defesa": 1,
+    "efeito": "Independente do que aconteça, rodada sempre resulta em empate.",
+    "engaste": [
+      1
+    ],
+    "liberada": false
+  },
+  {
+    "id": "RtE7xWJ1O1063SqF",
+    "name": "Improviso",
+    "img": "images/icons/skills/bard_skill_icon_12.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Bardo",
+    "ataque": 7,
+    "defesa": 1,
+    "efeito": "Você pode aplicar o efeito da Habilidade de Iujio 'Carta Armadilha' ou 'Jogada Inesperada' nesta rodada sem gastar o seu uso único da partida.",
+    "engaste": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru01LobAlcate001",
+    "name": "Lobo da Alcateia",
+    "img": "images/icons/spell_beastmaster_wolf.webp",
+    "tipo": "criatura",
+    "arquetipo": "Fera",
+    "ataque": 4,
+    "defesa": 2,
+    "efeito": "Se você vencer o Duelo, receba +1 de Ataque para cada outra Fera no seu baralho (máximo +3).",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru02EmranhRaiz02",
+    "name": "Emaranhado de Raízes",
+    "img": "icons/magic/nature/root-vine-entangled-hand.webp",
+    "tipo": "magia",
+    "arquetipo": "Druida / Natureza",
+    "ataque": 2,
+    "defesa": 5,
+    "efeito": "Reduza o Ataque da carta inimiga em 2. A carta inimiga não pode receber bônus de Ataque nesta rodada.",
+    "engaste": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru03IniciadBosq03",
+    "name": "Iniciado do Bosque",
+    "img": "images/icons/druid_skill_icon_04.webp",
+    "tipo": "criatura",
+    "arquetipo": "Druida",
+    "ataque": 3,
+    "defesa": 3,
+    "efeito": "Se você perder esta rodada, sua próxima carta revelada ganha +2 de Defesa.",
+    "engaste": [
+      2,
+      3,
+      4
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru04FormSelvUrs4",
+    "name": "Forma Selvagem: Urso Cinzento",
+    "img": "images/icons/spell_druid_bearhug.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Druida / Fera",
+    "ataque": 5,
+    "defesa": 5,
+    "efeito": "Se você for o primeiro a revelar a carta, ganhe +2 de Defesa. Se for o segundo, ganhe +2 de Ataque.",
+    "engaste": [
+      3,
+      4,
+      5
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru05BencCarval05",
+    "name": "Bênção do Carvalho",
+    "img": "icons/magic/nature/tree-elm-roots-brown.webp",
+    "tipo": "magia",
+    "arquetipo": "Druida / Natureza",
+    "ataque": 1,
+    "defesa": 6,
+    "efeito": "Se você perder esta rodada por 3 ou menos, você ganha +2 na próxima jogada de Duelo.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru06PanterNotur6",
+    "name": "Pantera Noturna",
+    "img": "images/icons/ability_druid_supriseattack.webp",
+    "tipo": "criatura",
+    "arquetipo": "Fera / Ladino",
+    "ataque": 6,
+    "defesa": 2,
+    "efeito": "Ignore a Defesa inimiga se a carta inimiga tiver 4 ou menos de Defesa.",
+    "engaste": [
+      5,
+      6,
+      7
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru07MuralhEspin7",
+    "name": "Muralha de Espinhos",
+    "img": "icons/magic/nature/brambles-thorns-purple.webp",
+    "tipo": "magia",
+    "arquetipo": "Natureza",
+    "ataque": 4,
+    "defesa": 6,
+    "efeito": "Se a carta inimiga causar Dano de Carta à sua Defesa, cause esse mesmo valor em dano direto ao resultado final do oponente.",
+    "engaste": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru08DruidaLua008",
+    "name": "Druida da Lua",
+    "img": "images/icons/spell_druid_lunarinspiration.webp",
+    "tipo": "criatura",
+    "arquetipo": "Druida",
+    "ataque": 6,
+    "defesa": 4,
+    "efeito": "Ao Revelar essa Carta: adicione +2 ao Ataque desta carta OU +3 à sua Defesa.",
+    "engaste": [
+      6,
+      7,
+      8
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru09FormSelvAgu9",
+    "name": "Forma Selvagem: Águia Gigante",
+    "img": "images/icons/artifactability_survivalhunter_eaglesbite.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Druida / Fera",
+    "ataque": 7,
+    "defesa": 2,
+    "efeito": "Se você perdeu a rolagem de Duelo nesta rodada, role novamente seu dado de Duelo e use o maior resultado.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru10IraFloresta10",
+    "name": "Ira da Floresta",
+    "img": "images/icons/nature_wind_blade_strike.webp",
+    "tipo": "magia",
+    "arquetipo": "Druida / Elemental",
+    "ataque": 8,
+    "defesa": 1,
+    "efeito": "Reduza o Ataque e a Defesa da carta inimiga em 3 nesta rodada.",
+    "engaste": [
+      8,
+      9,
+      10
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru11TreantAnces11",
+    "name": "Treant Ancestral",
+    "img": "icons/creatures/magical/tree-treant-ancient-green.webp",
+    "tipo": "criatura",
+    "arquetipo": "Natureza / Construto",
+    "ataque": 5,
+    "defesa": 9,
+    "efeito": "Esta carta ignora reduções de atributos. Se sua Defesa for maior que o Ataque inimigo, receba +3 no resultado da rodada.",
+    "engaste": [
+      9,
+      10,
+      11
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru12SilvanGuar12",
+    "name": "O Primeiro Discípulo",
+    "img": "images/icons/ary.webp",
+    "tipo": "criatura",
+    "arquetipo": "Druida / Lendário",
+    "ataque": 8,
+    "defesa": 8,
+    "efeito": "Ao Revelar essa carta: Adicione 1d8 ao seu valor de Duelo.",
+    "engaste": [
+      11,
+      12
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru13ViborEspor13",
+    "name": "Víbora de Esporos",
+    "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+    "tipo": "criatura",
+    "arquetipo": "Fera / Veneno",
+    "ataque": 3,
+    "defesa": 1,
+    "efeito": "Reduza o Ataque da carta inimiga em 2 nesta rodada. Se o resultado final do oponente for ímpar, ele perde -1 adicional.",
+    "engaste": [
+      1,
+      2,
+      3
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru14ChamadMatil14",
+    "name": "Chamado da Matilha",
+    "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+    "tipo": "habilidade",
+    "arquetipo": "Druida / Fera",
+    "ataque": 5,
+    "defesa": 3,
+    "efeito": "Se houver 3 ou mais cartas do arquétipo Fera no seu baralho, receba +3 no resultado final desta rodada.",
+    "engaste": [
+      4,
+      5,
+      6
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru15TempestDru15",
+    "name": "Tempestade Druídica",
+    "img": "images/icons/ability_druid_cyclone.webp",
+    "tipo": "magia",
+    "arquetipo": "Druida / Elemental",
+    "ataque": 7,
+    "defesa": 3,
+    "efeito": "O oponente não pode usar Habilidades de Iujio nesta rodada e tem o Ataque de sua carta reduzido em 2.",
+    "engaste": [
+      7,
+      8,
+      9
+    ],
+    "liberada": false
+  },
+  {
+    "id": "dru16MamutGlaci16",
+    "name": "Mamute Glacial Ancestral",
+    "img": "images/icons/inv_mammoth2lavamount_blue_resultado.webp",
+    "tipo": "criatura",
+    "arquetipo": "Fera / Lendário",
+    "ataque": 10,
+    "defesa": 6,
+    "efeito": "Se o Ataque desta carta for maior que o Ataque inimigo, ignore a Defesa inimiga e adicione +3 diretamente ao seu Resultado Provisório.",
+    "engaste": [
+      10,
+      11,
+      12
+    ],
+    "liberada": false
+  }
+]

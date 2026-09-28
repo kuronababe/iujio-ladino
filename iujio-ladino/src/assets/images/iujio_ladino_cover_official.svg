@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 850" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #000000; }
+      .line { stroke: #ffffff; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .line-thick { stroke: #ffffff; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .line-thin { stroke: #ffffff; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .eye { fill: #ffffff; }
+      .card-fill { fill: #000000; stroke: #ffffff; stroke-width: 3.5; stroke-linejoin: round; }
+    </style>
+  </defs>
+
+  <!-- Deep Black Canvas -->
+  <rect width="600" height="850" class="bg" />
+
+  <!-- ==================== BACKGROUND DUNGEON ==================== -->
+
+  <!-- LEFT WALL: Jagged stone blocks and mortar cracks -->
+  <g class="line">
+    <!-- Top-left stone blocks -->
+    <path d="M 5 60 L 45 65 L 75 40 L 95 70 L 60 100 L 15 95" />
+    <path d="M 55 45 L 60 5" />
+    <path d="M 10 140 L 50 130 L 70 150 L 55 180 L 15 175" />
+    <path d="M 50 130 L 90 120 L 105 140" />
+    <!-- Cracks around torch sconce -->
+    <path d="M 35 220 L 65 240 L 40 280 L 15 270" />
+    <path d="M 65 240 L 95 235 L 110 265 L 85 300 L 40 280" />
+    <path d="M 95 235 L 130 220 L 140 250" />
+    <!-- Lower left wall cracks -->
+    <path d="M 20 340 L 55 350 L 80 325 L 105 355 L 70 395 L 25 380" />
+    <path d="M 80 325 L 125 315 L 145 340" />
+    <path d="M 15 450 L 60 460 L 75 435 L 115 450 L 90 500 L 30 495" />
+    <path d="M 60 460 L 45 520 L 10 535" />
+    <path d="M 10 580 L 55 570 L 80 610 L 35 640 L 10 625" />
+    <path d="M 55 570 L 100 560 L 115 595 L 80 610" />
+    <path d="M 15 690 L 50 710 L 30 760 L 5 750" />
+    <path d="M 50 710 L 85 700 L 95 745 L 65 770 L 30 760" />
+  </g>
+
+  <!-- LEFT TORCH & SCONCE -->
+  <!-- Torch flame with stylized inner flicker -->
+  <path d="M 82 75 C 65 110 70 145 85 160 C 100 145 105 110 82 75 Z" class="line-thick" />
+  <path d="M 84 95 C 75 115 78 135 85 145 C 92 135 95 115 84 95 Z" class="line" />
+  <!-- Flame embers/sparks -->
+  <path d="M 72 110 L 62 125 L 75 130" class="line-thin" />
+  <path d="M 95 105 L 108 120 L 95 125" class="line-thin" />
+  <!-- Torch holder / sconce -->
+  <path d="M 70 160 L 100 160 L 94 185 L 76 185 Z" class="line-thick" />
+  <path d="M 73 172 L 97 172" class="line" />
+  <path d="M 85 185 L 85 245" class="line-thick" />
+  <!-- Wall bracket -->
+  <path d="M 60 215 L 85 215 L 85 240 L 60 240 Z" class="line" />
+  <path d="M 70 240 L 65 265 L 85 245" class="line" />
+
+  <!-- RIGHT ARCHWAY & STAIRCASE -->
+  <g class="line">
+    <!-- Arched doorway stone outline -->
+    <path d="M 455 350 L 460 220 C 465 140 520 85 580 85 L 595 85" class="line-thick" />
+    <path d="M 490 350 L 495 235 C 500 175 535 130 585 130 L 595 130" class="line" />
+    <!-- Keystone & arch stone radial divisions -->
+    <path d="M 460 200 L 495 210" />
+    <path d="M 475 155 L 505 175" />
+    <path d="M 505 115 L 530 145" />
+    <path d="M 545 92 L 560 132" />
+    <!-- Steps inside doorway ascending into darkness -->
+    <path d="M 495 330 L 585 330" class="line" />
+    <path d="M 500 295 L 585 295" class="line" />
+    <path d="M 505 265 L 585 265" class="line" />
+    <path d="M 515 235 L 585 235" class="line" />
+    <path d="M 525 205 L 585 205" class="line" />
+    <path d="M 535 180 L 585 180" class="line" />
+    <!-- Small distant torch inside archway -->
+    <path d="M 565 195 C 555 210 558 225 565 235 C 572 225 575 210 565 195 Z" class="line-thin" />
+    <path d="M 565 235 L 565 250" class="line-thin" />
+    <path d="M 560 245 L 570 245" class="line-thin" />
+    <!-- Stone wall cracks on right side -->
+    <path d="M 455 370 L 430 395 L 450 435 L 490 410" />
+    <path d="M 510 430 L 550 420 L 580 445" />
+    <path d="M 470 510 L 520 495 L 555 525 L 595 510" />
+    <path d="M 520 495 L 505 560 L 545 580" />
+    <path d="M 480 620 L 535 605 L 570 635" />
+    <path d="M 535 605 L 515 670 L 560 700" />
+    <path d="M 520 740 L 575 730 L 595 765" />
+  </g>
+
+
+  <!-- ==================== THE HOODED ROGUE ==================== -->
+
+  <!-- 1. CAPE & BODY SILHOUETTE (Deep black fill with stark white line contour) -->
+
+  <!-- Outer Cloak Left (flowing down from shoulder to ground) -->
+  <path d="M 195 355 L 140 435 L 105 530 L 75 640 L 50 740 L 15 845" class="line-thick" />
+  <!-- Inner cloak fold lines Left -->
+  <path d="M 140 435 L 175 510 L 155 620 L 120 730 L 70 845" class="line" />
+  <path d="M 175 510 L 220 560" class="line" />
+  <path d="M 120 730 L 145 845" class="line" />
+
+  <!-- Outer Cloak Right (flowing from back/hand to ground) -->
+  <path d="M 475 535 L 525 670 L 545 780 L 525 845" class="line-thick" />
+  <path d="M 450 635 L 485 750 L 475 845" class="line" />
+  <path d="M 395 770 L 435 845" class="line" />
+
+  <!-- 2. THE HOOD & MASK -->
+
+  <!-- Outer Hood Contour (Angular, sharp, geometric) -->
+  <path d="M 315 155 L 265 195 L 225 245 L 205 315 L 225 365 L 245 375" class="line-thick" />
+  <path d="M 315 155 L 365 190 L 405 240 L 420 305 L 410 345" class="line-thick" />
+  <!-- Crest peak fold of hood -->
+  <path d="M 315 155 L 305 220" class="line" />
+  <path d="M 265 195 L 290 225" class="line" />
+  <path d="M 365 190 L 335 225" class="line" />
+
+  <!-- Inner Hood Shadow Rim framing face -->
+  <path d="M 235 320 L 255 240 L 290 215 L 340 215 L 375 245 L 395 315" class="line-thick" />
+
+  <!-- Sharp Glowing Rogue Eyes -->
+  <polygon points="275,285 305,295 310,288 290,278" class="eye" />
+  <polygon points="330,288 335,295 365,285 350,278" class="eye" />
+  <!-- Inner eye cut/glow slit -->
+  <path d="M 268 285 L 312 296" class="line-thin" />
+  <path d="M 328 296 L 372 285" class="line-thin" />
+
+  <!-- Cloth Face Mask / Cowl -->
+  <!-- Top edge of mask across bridge of nose -->
+  <path d="M 255 315 L 320 330 L 385 315" class="line-thick" />
+  <!-- Bottom triangular point of mask -->
+  <path d="M 245 345 L 320 395 L 385 345" class="line-thick" />
+  <!-- Diagonal folds across mask -->
+  <path d="M 270 325 L 320 365 L 360 325" class="line" />
+  <path d="M 295 345 L 320 380 L 340 345" class="line-thin" />
+
+  <!-- 3. NECK SCARF & COWL LAYERS -->
+  <path d="M 225 365 L 255 405 L 320 435 L 385 405 L 415 365" class="line-thick" />
+  <path d="M 255 405 L 320 460 L 385 405" class="line" />
+  <path d="M 285 435 L 320 480 L 355 435" class="line" />
+
+  <!-- 4. TORSO, CHEST & SHOULDERS -->
+  <!-- Left Shoulder Mantle (viewer's left) -->
+  <path d="M 225 365 L 175 410 L 140 435" class="line-thick" />
+  <path d="M 195 390 L 245 440" class="line" />
+  <path d="M 175 410 L 225 470" class="line" />
+
+  <!-- Chest Harness / Vest Straps -->
+  <path d="M 245 440 L 285 530 L 275 620" class="line" />
+  <path d="M 320 480 L 320 545" class="line" />
+  <path d="M 345 445 L 345 540" class="line" />
+  <path d="M 275 505 L 345 505" class="line" />
+
+  <!-- 5. BELT, BUCKLE & POUCH -->
+  <!-- Main Belt -->
+  <path d="M 215 620 L 325 630 L 405 615" class="line-thick" />
+  <path d="M 205 660 L 325 675 L 415 655" class="line-thick" />
+  <!-- Square Belt Buckle in Center -->
+  <rect x="315" y="618" width="45" height="58" rx="4" class="line-thick" style="fill:#000000;" />
+  <rect x="326" y="630" width="23" height="34" rx="2" class="line" />
+  <path d="M 337 630 L 337 664" class="line-thick" />
+  <!-- Belt Strap End hanging down -->
+  <path d="M 360 670 L 355 745 L 375 750 L 380 675" class="line" />
+
+  <!-- Hip Pouch (Viewer's left) -->
+  <path d="M 205 640 L 235 645 L 230 720 L 195 710 Z" class="line-thick" style="fill:#000000;" />
+  <path d="M 200 665 L 235 670" class="line" />
+  <path d="M 215 670 L 215 700" class="line-thin" />
+
+  <!-- Lower Tunic / Coat Split below belt -->
+  <path d="M 265 670 L 245 770 L 215 845" class="line" />
+  <path d="M 325 675 L 320 780 L 305 845" class="line-thick" />
+  <path d="M 355 745 L 375 845" class="line" />
+
+  <!-- 6. RIGHT ARM & WRIST WRAPS (Viewer's right) -->
+  <!-- Upper Arm from shoulder down to elbow -->
+  <path d="M 405 355 L 435 405 L 455 450 L 475 510 L 455 540" class="line-thick" />
+  <!-- Forearm raised up towards cards -->
+  <path d="M 455 540 L 420 480 L 385 440" class="line-thick" />
+  <path d="M 475 510 L 440 455 L 415 425" class="line-thick" />
+
+  <!-- Distinctive bandage/bracer wraps across forearm -->
+  <path d="M 445 465 L 420 440" class="line-thick" />
+  <path d="M 455 485 L 430 460" class="line-thick" />
+  <path d="M 465 505 L 440 480" class="line-thick" />
+  <path d="M 460 525 L 448 505" class="line-thick" />
+
+  <!-- 7. GLOVED HAND HOLDING 4 PLAYING CARDS -->
+  <!-- Hand grasping the cards -->
+  <path d="M 385 440 C 375 425 385 405 405 405 C 415 405 425 415 420 435 Z" class="line-thick" style="fill:#000000;" />
+  <!-- Fingers holding cards -->
+  <path d="M 390 415 L 410 425" class="line" />
+  <path d="M 388 428 L 408 438" class="line" />
+  <path d="M 392 442 L 412 450" class="line" />
+  <path d="M 398 455 L 415 460" class="line" />
+
+  <!-- THE 4 PLAYING CARDS (Fanned out upright in hand) -->
+  <!-- Card 1 (Far Left, tilted -28deg) -->
+  <g transform="rotate(-28, 395, 410)">
+    <rect x="345" y="300" width="46" height="72" rx="4" class="card-fill" />
+    <rect x="350" y="306" width="36" height="60" rx="2" class="line-thin" />
+    <path d="M 368 325 L 368 347" class="line-thin" />
+    <path d="M 358 336 L 378 336" class="line-thin" />
+  </g>
+
+  <!-- Card 2 (Mid-Left, tilted -10deg) -->
+  <g transform="rotate(-10, 400, 410)">
+    <rect x="365" y="295" width="46" height="72" rx="4" class="card-fill" />
+    <rect x="370" y="301" width="36" height="60" rx="2" class="line-thin" />
+    <polygon points="388,322 396,336 388,350 380,336" class="line-thin" />
+  </g>
+
+  <!-- Card 3 (Upright, tilted +8deg) -->
+  <g transform="rotate(8, 405, 410)">
+    <rect x="385" y="295" width="46" height="72" rx="4" class="card-fill" />
+    <rect x="390" y="301" width="36" height="60" rx="2" class="line-thin" />
+    <circle cx="408" cy="336" r="8" class="line-thin" />
+  </g>
+
+  <!-- Card 4 (Far Right, tilted +25deg) -->
+  <g transform="rotate(25, 415, 410)">
+    <rect x="405" y="305" width="46" height="72" rx="4" class="card-fill" />
+    <rect x="410" y="311" width="36" height="60" rx="2" class="line-thin" />
+    <path d="M 428 322 L 435 336 L 421 336 Z" class="line-thin" />
+    <path d="M 428 350 L 428 336" class="line-thin" />
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "Iujio: Ladino",
+  "description": "RPG de cartas roguelike estilo clássico anos 80 nos calabouços de Maer contra o Mago Louco Aleister com sistema de engastes e draft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
